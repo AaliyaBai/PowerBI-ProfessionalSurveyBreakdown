@@ -14,3 +14,8 @@ The dataset used for this project consists of survey responses from 630 data pro
 - Difficulty to Break into Data: A response reflecting the perceived difficulty of entering the data field, ranging from "Very Easy" to "Very Difficult."
 - Count of Survey Respondents: The total number of responses per country and per job title.
 - Age: The average age of respondents.
+
+## Preview
+
+![App Screenshot](https://github.com/AaliyaBai/PowerBI-ProfessionalSurveyBreakdown/blob/00142276f7f565592afcfb532a7522eb0266f204/PowerBI_Preview.gif)
+
